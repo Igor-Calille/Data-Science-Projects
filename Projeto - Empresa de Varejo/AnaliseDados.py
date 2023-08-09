@@ -2,7 +2,7 @@
 
 ### Desafio:
 """"
-Você trabalha em uma empresa do varejo e tem milhares de clientes diferentes.
+Você trabalha em uma empresa do varejo e tem milhares de clientes diferentes
 
 Com o objetivo de aumentar o faturamento e o lucro da sua empresa, a diretoria quer conseguir identificar quem é o cliente ideal para seus produtos, baseado no histórico de compras dos clientes.
 
